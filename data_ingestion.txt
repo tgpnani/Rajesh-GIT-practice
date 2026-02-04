@@ -3,4 +3,8 @@ this is added in master branch.
 
 added data to dev branch
 
+<<<<<<< HEAD
 after that i wiill start big data.
+=======
+i will start kafka
+>>>>>>> 507b545 (added data)
