@@ -1,6 +1,4 @@
 this is a sample data file.
-<<<<<<< HEAD
 this is added in master branch.
-=======
+
 added data to dev branch
->>>>>>> devbranch
