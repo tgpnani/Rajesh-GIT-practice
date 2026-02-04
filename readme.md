@@ -1,1 +1,2 @@
-thi is the reading file for git.
+# Rajesh-GIT-practice
+adding to remote
